@@ -2,13 +2,14 @@
 layout: project
 type: project
 image: img/cotton/cotton-square.png
-title: "Cotton"
-date: 2014
+title: "Hediah-هدية"
+date: 2019
 published: true
 labels:
-  - Lisp
-  - GitHub
-summary: "A text adventure game I developed for ICS 313."
+  - Web Development
+  - pure Java Script
+  - Local Storage
+summary: "A Multi-Feature E-Commerce Website, Create Account, offer your Products, make Shopping with your Cart, Buy, write/read Reviews."
 ---
 
 <img class="img-fluid" src="../img/cotton/cotton-header.png">
