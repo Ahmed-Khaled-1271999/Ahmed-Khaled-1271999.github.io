@@ -1,18 +1,16 @@
 {
   "basics": {
-    "name": "Molly Maluhia",
-    "label": "Student",
-    "picture": "https://github.com/kambergjohnson.png",
-    "email": "molly@hawaii.edu",
-    "phone": "808-333-4444",
-    "website": "https://mmaluhia.github.io",
-    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2024.",
-    "location": { "address": "", "postalCode": "96822", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
+    "name": "Ahmed Khaled",
+    "label": "Undergraduate",
+    "picture": "https://avatars.githubusercontent.com/u/102780626?v=4",
+    "email": "ak.4199153@gmail.com",
+    "phone": "+20 01206423325",
+    "website": "https://Ahmed-Khaled-1271999.github.io",
+    "summary": "I am studying for a B.S. in Computer Science in the Department of Scientific Computing at the University of AinShams. I expect to graduate in Spring, 2023.",
+    "location": { "address": "", "postalCode": "13753", "city": "Cairo", "countryCode": "EG", "region": "" },
     "profiles": [
-      { "network": "github", "username": "mmaluhia", "url": "http://github.com/changeme" },
-      { "network": "linkedin", "username": "mollymaluhia", "url": "http://linkedin.com/in/changeme" },
-      { "network": "twitter", "username": "mollymal", "url": "http://twitter.com/changeme" },
-      { "network": "instagram", "username": "molly", "url": "http://instagram.com/changeme" }
+      { "network": "github", "username": "Ahmed-Khaled-1271999", "url": "https://github.com/Ahmed-Khaled-1271999" },
+      { "network": "linkedin", "username": "Ahmed Khaled", "url": "https://www.linkedin.com/in/ahmed-khaled-118b64243/" }
     ]
   },
   "interests": [
