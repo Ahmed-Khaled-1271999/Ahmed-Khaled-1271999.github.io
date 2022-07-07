@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: "Enjoy repetitive functions - Beware of mind-blowing!"
+title: "Enjoy Recursive functions - Beware of mind-blowing!"
 # All dates must be YYYY-MM-DD format!
 date: 2022-07-07
 published: true
