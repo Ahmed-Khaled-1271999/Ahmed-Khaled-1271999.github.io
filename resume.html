@@ -111,13 +111,13 @@ layout: home
     </div>
     {% endif %}
 
-    {% if site.data.bio.Open-Source_Contributions %}
+    {% if site.data.bio.OpenSource %}
     <div class="row pt-4 align-items-start">
       <div class="col-lg-3">
         <h1 class="display-6 text-start m-0">Open-Source Contributions</h1>
       </div>
       <div class="col-lg-9">
-        {% for entry in site.data.bio.Open-Source_Contributions %}
+        {% for entry in site.data.bio.OpenSource %}
           <div class="row mb-3">
             <div class="col-9">
               <p class="mb-0"><b>{{ entry.position }}, {{ entry.company }}</b></p>
