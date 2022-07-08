@@ -4,13 +4,14 @@
     "label": "Undergraduate",
     "picture": "https://avatars.githubusercontent.com/u/102780626?v=4",
     "email": "ak.4199153@gmail.com",
-    "phone": "+20 01206423325",
+    "phone": "+20 1206423325",
     "website": "https://Ahmed-Khaled-1271999.github.io",
     "summary": "I am studying for a B.S. in Computer Science in the Department of Scientific Computing at the University of AinShams. I expect to graduate in Spring, 2023.",
     "location": { "address": "", "postalCode": "13753", "city": "Cairo", "countryCode": "EG", "region": "" },
     "profiles": [
       { "network": "github", "username": "Ahmed-Khaled-1271999", "url": "https://github.com/Ahmed-Khaled-1271999" },
-      { "network": "linkedin", "username": "Ahmed Khaled", "url": "https://www.linkedin.com/in/ahmed-khaled-986255191/" }
+      { "network": "linkedin", "username": "Ahmed Khaled", "url": "https://www.linkedin.com/in/ahmed-khaled-986255191/" },
+      { "network": "Codeforces", "username": "Ahmed-Khaled-1271999", "url": "https://codeforces.com/profile/_ahmed_khaled" }
     ]
   },
   "interests": [
@@ -21,48 +22,62 @@
   ],
   "skills": [
     {
-      "name": "Languages and Frameworks",
-      "keywords": [ "C", "C++", "Java", "Javascript", "Assembly", "Common Lisp" ]
+      "name": "Functional Programming",
+      "keywords": [ "SML", "Racket", "Ruby"]
     },
     {
-      "name": "Toolsets/OS",
-      "keywords": [ "MacOS", "Ubuntu", "Git/GitHub", "g++", "TI LaunchPad" ]
+      "name": "Object-Oriented Programming",
+      "keywords": [ "Python", "Java"]
+    },
+    {
+      "name": "Competitive Programming",
+      "keywords": [ "Algorithms", "Data Structures"]
+    },
+    {
+      "name": "Data Analysis & Visualization",
+      "keywords": [ "Numpy", "Pandas", "Power PI"]
+    },
+    {
+      "name": "Front End Web Development",
+      "keywords": [ "html5", "css3", "js", "BootStrap5", "APIs"]
+    },
+    {
+      "name": "Toolset/OS",
+      "keywords": [ "Ubuntu", "Version Control git/gitHub", "shell/cmd", "vim Editor" ]
     }
   ],
   "education": [
     {
-      "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Spring, 2018)",
+      "institution": "University of AinShams, Cairo, EG",
+      "area": "Sientific Computing Department",
       "studyType": "B.S.",
-      "startDate": "2013-09-01",
+      "startDate": "2019-09-01",
       "endDate": "Present",
       "courses": [
       ]
     }
   ],
-  "work": [
+  "Open-Source Contributions": [
     {
-      "company": "UH Manoa Board of Publications",
-      "position": "Web Developer",
+      "company": "Girl Script Summer of Code",
+      "position": "Participant",
       "website": "",
-      "startDate": "2015-08-01",
+      "startDate": "2022-05-01",
       "endDate": "Present",
-      "summary": "Head of online presence for Ka Leo",
+      "summary": "participate on ?Text Summerization? Project",
       "highlights": [
-        "Maintain, update, and oversee official college newspaper website",
-        "Drive, design and build student-community projects for UH Manoa"
+        "do do do do do ..."
       ]
     },
     {
-      "company": "UH Information Technology Services",
-      "position": "Help Desk Consultant",
+      "company": "FCIS-ASU Graduation Projects",
+      "position": "reproduce the project with refinments",
       "website": "http://www.hawaii.edu/its/",
-      "startDate": "2015-01-01",
-      "endDate": "2016-03-15",
+      "startDate": "2022-08-01",
+      "endDate": "present",
       "summary": "",
       "highlights": [
-        "Troubleshoot software, hardware and networking issues over the phone",
-        "Answer phone and email responses to the ITS Help Desk"
+      
       ]
     }
   ],
