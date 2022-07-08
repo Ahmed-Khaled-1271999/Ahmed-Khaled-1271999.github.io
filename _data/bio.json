@@ -10,8 +10,7 @@
     "location": { "address": "", "postalCode": "13753", "city": "Cairo", "countryCode": "EG", "region": "" },
     "profiles": [
       { "network": "github", "username": "Ahmed-Khaled-1271999", "url": "https://github.com/Ahmed-Khaled-1271999" },
-      { "network": "linkedin", "username": "Ahmed Khaled", "url": "https://www.linkedin.com/in/ahmed-khaled-986255191/" },
-      { "network": "Codeforces", "username": "Ahmed-Khaled-1271999", "url": "https://codeforces.com/profile/_ahmed_khaled" }
+      { "network": "linkedin", "username": "Ahmed Khaled", "url": "https://www.linkedin.com/in/ahmed-khaled-986255191/" }
     ]
   },
   "interests": [
@@ -69,15 +68,26 @@
         "do do do do do ..."
       ]
     },
+      {
+      "company": "Girl Script Summer of Code",
+      "position": "Participant",
+      "website": "",
+      "startDate": "2022-05-01",
+      "endDate": "Present",
+      "summary": "participate on ?Text Summerization? Project",
+      "highlights": [
+        "do do do do do ..."
+      ]
+    },
     {
-      "company": "FCIS-ASU Graduation Projects",
+      "company": "Microsoft OpenSource",
       "position": "reproduce the project with refinments",
-      "website": "http://www.hawaii.edu/its/",
+      "website": "https://opensource.microsoft.com/projects/explore?q=ML",
       "startDate": "2022-08-01",
       "endDate": "present",
-      "summary": "",
+      "summary": "Contribute on Practical Learning Journey",
       "highlights": [
-      
+         "do do do do do ..."
       ]
     }
   ],
