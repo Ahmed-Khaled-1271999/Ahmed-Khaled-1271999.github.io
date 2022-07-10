@@ -82,7 +82,7 @@
     {
       "company": "FCIS Graduation Projects",
       "position": "reproducer for the projects with refinments",
-      "website": "https://opensource.microsoft.com/projects/explore?q=ML",
+      "website": "https://github.com/Ahmed-Khaled-1271999",
       "startDate": "2022-08-01",
       "endDate": "present",
       "summary": "Informal but local Contribution on our Student Community ",
@@ -91,30 +91,39 @@
       ]
     }
   ],
-  "volunteer": [
+  "Competitions": [
     {
-      "organization": "Center for Renewable Energy and Island Sustainability",
-      "website": "http://manoa.hawaii.edu/reis",
+      "organization": "ACM-ECPC",
+      "website": "https://icpc.global/",
       "position": "Software Developer",
-      "startDate": "2016-01-01",
+      "startDate": "2022-08-01",
       "endDate": "Present",
-      "summary": "Lead developer for weather sensing project",
+      "summary": "participation 3rd Time in a row for us \"Solution Square\" Team",
       "highlights": [
-        "Design firmware for distributed weather sensor network",
-        "Maintain custom data collection and storage infrastructure"
+        "do do do do do ..."
+      ]
+    },
+   
+    {
+      "organization": "FCIS Machine Learning Competition 1st Place",
+      "website": "https://github.com/Ahmed-Khaled-1271999/Ahmed-Khaled-1271999.github.io",
+      "position": "Team Leader",
+      "startDate": "2022-12-01"
+      "endDate": "2022-9-01",
+      "summary": "",
+      "highlights": [   
+        "do do do do do ..."
       ]
     },
     {
-      "organization": "",
-      "website": "",
-      "position": "Professional organization involvement",
-      "startDate": "",
-      "endDate": "",
-      "summary": "",
-      "highlights": [
-        "Chair, ACM Manoa, 2016-Present",
-        "Member, IEEE Student Branch, 2014-Present",
-        "Webmaster/IT Officer, IEEE Student Branch, UH Manoa, 2012-2013"
+      "organization": "Google-Hash Code",
+      "website": "https://codingcompetitions.withgoogle.com/hashcode/teammanagement/00000000008caae7",
+      "position": "",
+      "startDate": "2022-4-01"
+      "endDate": "2022-4-01",
+      "summary": "real world Engineering problem. (Project Scheduling .. an Optimization Problem)",
+      "highlights": [   
+        "do do do do do ..."
       ]
     }
   ],
