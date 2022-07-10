@@ -1,149 +1,160 @@
 {
-  "basics": {
-    "name": "Ahmed Khaled",
-    "label": "Undergraduate",
-    "picture": "https://avatars.githubusercontent.com/u/102780626?v=4",
-    "email": "ak.4199153@gmail.com",
-    "phone": "+20 1206423325",
-    "website": "https://Ahmed-Khaled-1271999.github.io",
-    "summary": "I am studying for a B.S. in Computer Science in the Department of Scientific Computing at the University of AinShams. I expect to graduate in Spring, 2023.",
-    "location": { "address": "", "postalCode": "13753", "city": "Cairo", "countryCode": "EG", "region": "" },
-    "profiles": [
-      { "network": "github", "username": "Ahmed-Khaled-1271999", "url": "https://github.com/Ahmed-Khaled-1271999" },
-      { "network": "linkedin", "username": "Ahmed Khaled", "url": "https://www.linkedin.com/in/ahmed-khaled-986255191/" }
-    ]
-  },
-  "interests": [
-    { "name": "Computer Science" },
-    { "name": "Artificial Intelligence" },
-    { "name": "Data Science" },
-    { "name": "Islamic Science" }
-  ],
-  "skills": [
-    {
-      "name": "Functional Programming",
-      "keywords": [ "SML", "Racket", "Ruby"]
-    },
-    {
-      "name": "Object-Oriented Programming",
-      "keywords": [ "Python", "Java"]
-    },
-    {
-      "name": "Competitive Programming",
-      "keywords": [ "Algorithms", "Data Structures"]
-    },
-    {
-      "name": "Data Analysis & Visualization",
-      "keywords": [ "Numpy", "Pandas", "Power PI"]
-    },
-    {
-      "name": "Front End Web Development",
-      "keywords": [ "html5", "css3", "js", "BootStrap5", "APIs"]
-    },
-    {
-      "name": "Toolset/OS",
-      "keywords": [ "Ubuntu", "Version Control git/gitHub", "shell/cmd", "vim Editor" ]
-    }
-  ],
-  "education": [
-    {
-      "institution": "University of AinShams, Cairo, EG",
-      "area": "Sientific Computing Department",
-      "studyType": "B.S.",
-      "startDate": "2019-09-01",
-      "endDate": "Present",
-      "courses": [
-      ]
-    }
-  ],
-  "OpenSource": [
-    {
-      "company": "Girl Script Summer of Code",
-      "position": "Participant",
-      "website": "",
-      "startDate": "2022-05-01",
-      "endDate": "Present",
-      "summary": "participate on ?Text Summerization? Project",
-      "highlights": [
-        "do do do do do ..."
-      ]
-    },
-      {
-      "company": "Microsoft Open Source",
-      "position": "Participant",
-      "website": "https://opensource.microsoft.com/projects/explore?q=ML",
-      "startDate": "2022-05-01",
-      "endDate": "Present",
-      "summary": "participate on Machine Learning for Beginners' curriculum",
-      "highlights": [
-        "do do do do do ..."
-      ]
-    },
-    {
-      "company": "FCIS Graduation Projects",
-      "position": "Reproducer",
-      "website": "https://github.com/Ahmed-Khaled-1271999",
-      "startDate": "2022-08-01",
-      "endDate": "present",
-      "summary": "Informal but local Contribution on our Student Community i reproducer the projects with refinments ",
-      "highlights": [
-         "do do do do do ..."
-      ]
-    }
-  ],
-  "Competitions": [
-    {
-      "organization": "ACM-ECPC",
-      "website": "https://icpc.global/",
-      "position": "Software Developer",
-      "startDate": "2022-08-01",
-      "endDate": "Present",
-      "summary": "participation 3rd Time in a row for us ( Solution Square ) Team",
-      "highlights": [
-        "do do do do do ..."
-      ]
-    },
-   
-    {
-      "organization": "FCIS Machine Learning Competition 1st Place",
-      "website": "https://github.com/Ahmed-Khaled-1271999/Ahmed-Khaled-1271999.github.io",
-      "position": "Team Leader",
-      "startDate": "2022-12-01"
-      "endDate": "2022-9-01",
-      "summary": "",
-      "highlights": [   
-        "do do do do do ..."
-      ]
-    },
-    {
-      "organization": "Google-Hash Code",
-      "website": "https://codingcompetitions.withgoogle.com/hashcode/teammanagement/00000000008caae7",
-      "position": "",
-      "startDate": "2022-4-01"
-      "endDate": "2022-4-01",
-      "summary": "real world Engineering problem. (Project Scheduling .. an Optimization Problem)",
-      "highlights": [   
-        "do do do do do ..."
-      ]
-    }
-  ],
-  "awards": [
-    {
-      "title": "B+ Scholarship",
-      "date": "2013-Present",
-      "awarder": "State of Hawaii",
-      "summary": "Scholarships awarded to incoming freshmen and continuing students who complete a rigorous high school curriculum with a minimum overall GPA of 3.0 at a Hawai'i public school."
-    },
-    {
-      "title": "First place",
-      "date": "2015",
-      "awarder": "University of Hawaii Micromouse Competition",
-      "summary": "My team won first place in 2015.  See my portfolio site for more details."
-    }
-  ],
-  "references": [
-    {
-      "name": "Available upon request"
-    }
-  ]
+	"basics": {
+		"name": "Ahmed Khaled",
+		"label": "Undergraduate",
+		"picture": "https://avatars.githubusercontent.com/u/102780626?v=4",
+		"email": "ak.4199153@gmail.com",
+		"phone": "+20 1206423325",
+		"website": "https://Ahmed-Khaled-1271999.github.io",
+		"summary": "I am studying for a B.S. in Computer Science in the Department of Scientific Computing at the University of AinShams. I expect to graduate in Spring, 2023.",
+		"location": {
+			"address": "",
+			"postalCode": "13753",
+			"city": "Cairo",
+			"countryCode": "EG",
+			"region": ""
+		},
+		"profiles": [{
+				"network": "github",
+				"username": "Ahmed-Khaled-1271999",
+				"url": "https://github.com/Ahmed-Khaled-1271999"
+			},
+			{
+				"network": "linkedin",
+				"username": "Ahmed Khaled",
+				"url": "https://www.linkedin.com/in/ahmed-khaled-986255191/"
+			}
+		]
+	},
+	"interests": [{
+			"name": "Computer Science"
+		},
+		{
+			"name": "Artificial Intelligence"
+		},
+		{
+			"name": "Data Science"
+		},
+		{
+			"name": "Islamic Science"
+		}
+	],
+	"skills": [{
+			"name": "Functional Programming",
+			"keywords": ["SML", "Racket", "Ruby"]
+		},
+		{
+			"name": "Object-Oriented Programming",
+			"keywords": ["Python", "Java"]
+		},
+		{
+			"name": "Competitive Programming",
+			"keywords": ["Algorithms", "Data Structures"]
+		},
+		{
+			"name": "Data Analysis & Visualization",
+			"keywords": ["Numpy", "Pandas", "Power PI"]
+		},
+		{
+			"name": "Front End Web Development",
+			"keywords": ["html5", "css3", "js", "BootStrap5", "APIs"]
+		},
+		{
+			"name": "Toolset/OS",
+			"keywords": ["Ubuntu", "Version Control git/gitHub", "shell/cmd", "vim Editor"]
+		}
+	],
+	"education": [{
+		"institution": "University of AinShams, Cairo, EG",
+		"area": "Sientific Computing Department",
+		"studyType": "B.S.",
+		"startDate": "2019-09-01",
+		"endDate": "Present",
+		"courses": []
+	}],
+	"OpenSource": [{
+			"company": "Girl Script Summer of Code",
+			"position": "Participant",
+			"website": "",
+			"startDate": "2022-05-01",
+			"endDate": "Present",
+			"summary": "participate on ?Text Summerization? Project",
+			"highlights": [
+				"do do do do do ..."
+			]
+		},
+		{
+			"company": "Microsoft Open Source",
+			"position": "Participant",
+			"website": "https://opensource.microsoft.com/projects/explore?q=ML",
+			"startDate": "2022-05-01",
+			"endDate": "Present",
+			"summary": "participate on Machine Learning for Beginners' curriculum",
+			"highlights": [
+				"do do do do do ..."
+			]
+		},
+		{
+			"company": "FCIS Graduation Projects",
+			"position": "Reproducer",
+			"website": "https://github.com/Ahmed-Khaled-1271999",
+			"startDate": "2022-08-01",
+			"endDate": "present",
+			"summary": "Informal but local Contribution on our Student Community i reproducer the projects with refinments ",
+			"highlights": [
+				"do do do do do ..."
+			]
+		}
+	],
+	"Competitions": [{
+			"organization": "ACM-ECPC",
+			"website": "https://icpc.global/",
+			"position": "Software Developer",
+			"startDate": "2022-08-01",
+			"endDate": "Present",
+			"summary": "participation 3rd Time in a row for us ( Solution Square ) Team",
+			"highlights": [
+				"do do do do do ..."
+			]
+		},
+
+		{
+			"organization": "FCIS Machine Learning Competition 1st Place",
+			"website": "https://github.com/Ahmed-Khaled-1271999/Ahmed-Khaled-1271999.github.io",
+			"position": "Team Leader",
+			"startDate": "2022-12-01",
+			"endDate": "2022-9-01",
+			"summary": "",
+			"highlights": [
+				"do do do do do ..."
+			]
+		},
+		{
+			"organization": "Google-Hash Code",
+			"website": "https://codingcompetitions.withgoogle.com/hashcode/teammanagement/00000000008caae7",
+			"position": "",
+			"startDate": "2022-4-01",
+			"endDate": "2022-4-01",
+			"summary": "real world Engineering problem. (Project Scheduling .. an Optimization Problem)",
+			"highlights": [
+				"do do do do do ..."
+			]
+		}
+	],
+	"awards": [{
+			"title": "B+ Scholarship",
+			"date": "2013-Present",
+			"awarder": "State of Hawaii",
+			"summary": "Scholarships awarded to incoming freshmen and continuing students who complete a rigorous high school curriculum with a minimum overall GPA of 3.0 at a Hawai'i public school."
+		},
+		{
+			"title": "First place",
+			"date": "2015",
+			"awarder": "University of Hawaii Micromouse Competition",
+			"summary": "My team won first place in 2015.  See my portfolio site for more details."
+		}
+	],
+	"references": [{
+		"name": "Available upon request"
+	}]
 }
