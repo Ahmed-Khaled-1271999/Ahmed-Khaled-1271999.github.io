@@ -141,17 +141,23 @@
 			]
 		}
 	],
-	"awards": [{
-			"title": "B+ Scholarship",
-			"date": "2013-Present",
-			"awarder": "State of Hawaii",
-			"summary": "Scholarships awarded to incoming freshmen and continuing students who complete a rigorous high school curriculum with a minimum overall GPA of 3.0 at a Hawai'i public school."
+	"Certificates": [{
+			"title": "The 2021 ICPC Ain Shams FCI Collegiate Programming Contest",
+			"date": "2021-Present",
+			"awarder": "Dr. William B. Poucher ICPC Executive Director",
+			"summary": "Certificate of Achievement."
 		},
 		{
-			"title": "First place",
-			"date": "2015",
-			"awarder": "University of Hawaii Micromouse Competition",
-			"summary": "My team won first place in 2015.  See my portfolio site for more details."
+			"title": "Google HashCode",
+			"date": "2022",
+			"awarder": "Google",
+			"summary": "My team got The Solution of low scale version of the problem."
+		},
+		{
+			"title": "Data Challenger Track",
+			"date": "2022",
+			"awarder": "ministry of communication and information technology",
+			"summary": "Certificate of Completion."
 		}
 	],
 	"references": [{
