@@ -99,7 +99,7 @@
 	],
 	"Competitions": [{
 			"organization": "ACM-ECPC",
-			"website": "https://icpc.global/",
+			"website": "",
 			"position": "Competitor",
 			"startDate": "2022-08-01",
 			"endDate": "Present",
@@ -108,7 +108,7 @@
 
 		{
 			"organization": "FCIS Machine Learning Competition 1st Place",
-			"website": "https://github.com/Ahmed-Khaled-1271999/Ahmed-Khaled-1271999.github.io",
+			"website": "",
 			"position": "Team Leader",
 			"startDate": "2022-12-01",
 			"endDate": "2022-9-01",
@@ -116,7 +116,7 @@
 		},
 		{
 			"organization": "Google-Hash Code",
-			"website": "https://codingcompetitions.withgoogle.com/hashcode/teammanagement/00000000008caae7",
+			"website": "",
 			"position": "Competitor",
 			"startDate": "2022-4-01",
 			"endDate": "2022-4-01",
