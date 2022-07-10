@@ -109,7 +109,7 @@
 	"Competitions": [{
 			"organization": "ACM-ECPC",
 			"website": "https://icpc.global/",
-			"position": "Software Developer",
+			"position": "Competitor",
 			"startDate": "2022-08-01",
 			"endDate": "Present",
 			"summary": "participation 3rd Time in a row for us ( Solution Square ) Team",
@@ -132,7 +132,7 @@
 		{
 			"organization": "Google-Hash Code",
 			"website": "https://codingcompetitions.withgoogle.com/hashcode/teammanagement/00000000008caae7",
-			"position": "",
+			"position": "Competitor",
 			"startDate": "2022-4-01",
 			"endDate": "2022-4-01",
 			"summary": "real world Engineering problem. (Project Scheduling .. an Optimization Problem)",
