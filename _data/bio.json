@@ -191,10 +191,40 @@
 			"website": "",
 			"startDate": "2021-09-01",
 			"endDate": "present",
-			"summary": " Classic Dijkstra's shortest path algorithm and optimize it for maps. Goal is to reduce the Time without using excessive space.  OPTIMIZATION: to stop the search as soon as you discover the shortest path to the destination. the running time per query proportional to E log V. Since you are doing repeated queries! only re-initializing those values that changed in the previous query.
-
-"
-		}   
+			"summary": " Classic Dijkstra's shortest path algorithm and optimize it for maps. Goal is to reduce the Time without using excessive space.  OPTIMIZATION: to stop the search as soon as you discover the shortest path to the destination. the running time per query proportional to E log V. Since you are doing repeated queries! only re-initializing those values that changed in the previous query."
+		},   
+	        {
+			"company": "Virtual-Logic-Design-App",
+			"position": "OOP",
+			"website": "",
+			"startDate": "2020-02-01",
+			"endDate": "2020-06-01",
+			"summary": "Logical Circuits Simulator, Object Oriented Paradigm, with Friendly User Interface, many different Component each has its class. see The Run Vedio."
+		},
+	        {
+			"company": "Virtual-Logic-Design-App",
+			"position": "OOP",
+			"website": "https://github.com/Ahmed-Khaled-1271999/OOP-Virtual-Logic-Design-App",
+			"startDate": "2020-02-01",
+			"endDate": "2020-06-01",
+			"summary": "Logical Circuits Simulator, Object Oriented Paradigm, with Friendly User Interface, many different Component each has its class. see The Run Vedio."
+		},
+	      	{
+			"company": "Gorgeous-artwork-gallery",
+			"position": "Website",
+			"website": "https://github.com/Ahmed-Khaled-1271999/Gorgeous-artwork-gallery",
+			"startDate": "2020-02-01",
+			"endDate": "2020-06-01",
+			"summary": "Smsm Gallery, a web site for showing art."
+		},
+	        {
+			"company": "Robot-do-it-better",
+			"position": "Graphics",
+			"website": "https://github.com/Ahmed-Khaled-1271999/Gorgeous-artwork-gallery",
+			"startDate": "2020-02-01",
+			"endDate": "2020-06-01",
+			"summary": "Computer Graphics Robot do it better. is a 1 min. Scene made in blender, Modeling -> Shading & Texture -> Character Rigging -> Animation is Applied. All rights Reserved for Eng. Elsawy who helped our team much."
+		}     
 	],
 	"references": [{
 		"name": "Available upon request"
