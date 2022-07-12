@@ -145,6 +145,47 @@
 			"summary": "Certificate of Completion."
 		}
 	],
+	"portfolio": [{
+			"company": "Hediah - هدية",
+			"position": "Web App",
+			"website": "",
+			"startDate": "2020-04-01",
+			"endDate": "Present",
+			"summary": "Multi features E-commerce App, Create Account, Customize your Profile, Shopping with your cart, read/write Reviews on the product page, and be a trader! offer your products to public and keep track them , The state of the Application is kept by a Local Storage."
+		},
+		{
+			"company": "Tic Tac Toe",
+			"position": "Android App",
+			"website": "",
+			"startDate": "2021-02-01",
+			"endDate": "Present",
+			"summary": "Funny Tic Tac Toe Game"
+		},
+	      	{
+			"company": "Egg Timer",
+			"position": "Android App",
+			"website": "",
+			"startDate": "2021-02-01",
+			"endDate": "Present",
+			"summary": "Time Management Application acts like promodoro Techniche "
+		},
+		{
+			"company": "Indexed Files Allocation",
+			"position": "Reproducer",
+			"website": "",
+			"startDate": "2022-08-01",
+			"endDate": "present",
+			"summary": "Simulation of File Allocation, How to allocate a file in Hard Disk Drive's Blocks to facilitate Access them with minimized Disk Block Access Hits, The Teqniche used is Indexed Allocation which is a superior over Contigous & Linked Allocation"
+		},
+	        {
+			"company": "Sports Game Ticket Reservation System",
+			"position": "OOP",
+			"website": "",
+			"startDate": "2020-05-01",
+			"endDate": "present",
+			"summary": " Sports Game Ticket Reservation System is an application that helps sports’ fans to reserve their places in their favorite games (national or international)"
+		}    
+	],
 	"references": [{
 		"name": "Available upon request"
 	}]
