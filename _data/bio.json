@@ -196,14 +196,6 @@
 	        {
 			"company": "Virtual-Logic-Design-App",
 			"position": "OOP",
-			"website": "",
-			"startDate": "2020-02-01",
-			"endDate": "2020-06-01",
-			"summary": "Logical Circuits Simulator, Object Oriented Paradigm, with Friendly User Interface, many different Component each has its class. see The Run Vedio."
-		},
-	        {
-			"company": "Virtual-Logic-Design-App",
-			"position": "OOP",
 			"website": "https://github.com/Ahmed-Khaled-1271999/OOP-Virtual-Logic-Design-App",
 			"startDate": "2020-02-01",
 			"endDate": "2020-06-01",
