@@ -159,7 +159,7 @@
 			"position": "Algorithms",
 			"website": "https://github.com/Ahmed-Khaled-1271999/Algorithms-MapRouting",
 			"startDate": "2021-09-01",
-			"endDate": "present",
+			"endDate": "",
 			"summary": " Classic Dijkstra's shortest path algorithm and optimize it for maps. Goal is to reduce the Time without using excessive space.  OPTIMIZATION: to stop the search as soon as you discover the shortest path to the destination. the running time per query proportional to E log V. Since you are doing repeated queries! only re-initializing those values that changed in the previous query."
 		},   
 	        {
@@ -167,7 +167,7 @@
 			"position": "OOP",
 			"website": "https://github.com/Ahmed-Khaled-1271999/OOP-Virtual-Logic-Design-App",
 			"startDate": "2020-02-01",
-			"endDate": "2020-06-01",
+			"endDate": "",
 			"summary": "Logical Circuits Simulator, Object Oriented Paradigm, with Friendly User Interface, many different Component each has its class. see The Run Vedio."
 		},
 		{
@@ -175,7 +175,7 @@
 			"position": "Web App",
 			"website": "https://github.com/Ahmed-Khaled-1271999/Hadiyah",
 			"startDate": "2020-04-01",
-			"endDate": "Present",
+			"endDate": "",
 			"summary": "Multi features E-commerce App, Create Account, Customize your Profile, Shopping with your cart, read/write Reviews on the product page, and be a trader! offer your products to public and keep track them , The state of the Application is kept by a Local Storage."
 		},
 		{
@@ -183,7 +183,7 @@
 			"position": "Wazzuf",
 			"website": "https://github.com/Ahmed-Khaled-1271999/Wazzauf",
 			"startDate": "2020-02-01",
-			"endDate": "2020-06-01",
+			"endDate": "",
 			"summary": "A Database System, ER Diagram and its Logical Schema (Relational Model) are well Designed. Implementation is done using ODB.NET. +7 Windows Forms are developed. Crystal Report are Generated Dynamically (parametrized). "
 		},
 		{
@@ -191,7 +191,7 @@
 			"position": "Implementation",
 			"website": "https://github.com/Ahmed-Khaled-1271999/FilesOrganization-Simulation-of-Indexed-Files-Allocation",
 			"startDate": "2020-02-01",
-			"endDate": "2020-06-01",
+			"endDate": "",
 			"summary": "Simulation of File Allocation, How to allocate a file in Hard Disk Drive's Blocks to facilitate Access them with minimized Disk Block Access Hits, The Teqniche used is Indexed Allocation which is a superior over Contigous & Linked Allocation"
 		},
 		{
@@ -199,7 +199,7 @@
 			"position": "Graphics",
 			"website": "https://github.com/Ahmed-Khaled-1271999/ComputerGraphics-Robot-do-it-better",
 			"startDate": "2020-02-01",
-			"endDate": "2020-06-01",
+			"endDate": "",
 			"summary": "Computer Graphics Robot do it better. is a 1 min. Scene made in blender, Modeling -> Shading & Texture -> Character Rigging -> Animation is Applied. All rights Reserved for Eng. Elsawy who helped our team much."
 		},     
 	        {
@@ -207,7 +207,7 @@
 			"position": "OOP",
 			"website": "https://github.com/Ahmed-Khaled-1271999/OOP-Sports-Game-Ticket-Reservation-System",
 			"startDate": "2020-02-01",
-			"endDate": "2020-06-01",
+			"endDate": "",
 			"summary": " Sports Game Ticket Reservation System is an application that helps sports’ fans to reserve their places in their favorite games (national or international)"
 		},  
 	      	{
@@ -215,7 +215,7 @@
 			"position": "Android App",
 			"website": "https://github.com/Ahmed-Khaled-1271999/EggTimer",
 			"startDate": "2021-02-01",
-			"endDate": "Present",
+			"endDate": "",
 			"summary": "Time Management Application acts like promodoro Techniche "
 		},
 		{
@@ -223,7 +223,7 @@
 			"position": "Android App",
 			"website": "https://github.com/Ahmed-Khaled-1271999/TicTacToe-Game",
 			"startDate": "2021-02-01",
-			"endDate": "2021-06-01",
+			"endDate": "",
 			"summary": "Funny Tic Tac Toe Game"
 		},
 	      	{
@@ -231,7 +231,7 @@
 			"position": "Website",
 			"website": "https://github.com/Ahmed-Khaled-1271999/Gorgeous-artwork-gallery",
 			"startDate": "2020-02-01",
-			"endDate": "2020-06-01",
+			"endDate": "",
 			"summary": "Smsm Gallery, a web site for showing art."
 		}
 	],
