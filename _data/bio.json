@@ -102,7 +102,7 @@
 			"website": "",
 			"position": "Competitor",
 			"startDate": "2022-08-01",
-			"endDate": "Present",
+			"endDate": "",
 			"summary": "participation 3rd Time in a row for us ( Solution Square ) Team"
 		},
 
@@ -111,7 +111,7 @@
 			"website": "",
 			"position": "Team Leader",
 			"startDate": "2022-12-01",
-			"endDate": "2022-9-01",
+			"endDate": "",
 			"summary": ""
 		},
 		{
@@ -119,13 +119,13 @@
 			"website": "",
 			"position": "Competitor",
 			"startDate": "2022-4-01",
-			"endDate": "2022-4-01",
+			"endDate": "",
 			"summary": "real world Engineering problem. (Project Scheduling .. an Optimization Problem)"
 		}
 	],
 	"Certificates": [{
 			"title": "The 2021 ICPC Ain Shams FCI Collegiate Programming Contest",
-			"date": "2021-Present",
+			"date": "2020-2021-2022",
 			"link": "https://drive.google.com/file/d/1YXole8emF26G9xeyRapHKYNUigg-LLdp/view?usp=sharing",
 			"awarder": "Dr. William B. Poucher ICPC Executive Director",
 			"summary": "Certificate of Achievement."
