@@ -1,0 +1,241 @@
+{
+	"basics": {
+		"name": "Ahmed Khaled",
+		"label": "Undergraduate",
+		"picture": "https://avatars.githubusercontent.com/u/102780626?v=4",
+		"email": "ak.4199153@gmail.com",
+		"phone": "+20 1206423325",
+		"website": "https://Ahmed-Khaled-1271999.github.io",
+		"summary": "I am studying for a B.S. in Computer Science in the Department of Scientific Computing at the University of AinShams. I expect to graduate in Spring, 2023.",
+		"location": {
+			"address": "",
+			"postalCode": "13753",
+			"city": "Cairo",
+			"countryCode": "EG",
+			"region": ""
+		},
+		"profiles": [{
+				"network": "github",
+				"username": "Ahmed-Khaled-1271999",
+				"url": "https://github.com/Ahmed-Khaled-1271999"
+			},
+			{
+				"network": "linkedin",
+				"username": "Ahmed Khaled",
+				"url": "https://www.linkedin.com/in/ahmed-khaled-986255191/"
+			}
+		]
+	},
+	"interests": [{
+			"name": "Computer Science"
+		},
+		{
+			"name": "Artificial Intelligence"
+		},
+		{
+			"name": "Data Science"
+		},
+		{
+			"name": "Islamic Science"
+		}
+	],
+	"skills": [{
+			"name": "Functional Programming",
+			"keywords": ["SML", "Racket", "Ruby"]
+		},
+		{
+			"name": "Object-Oriented Programming",
+			"keywords": ["Python", "Java"]
+		},
+		{
+			"name": "Competitive Programming",
+			"keywords": ["Algorithms", "Data Structures"]
+		},
+		{
+			"name": "Data Analysis & Visualization",
+			"keywords": ["Numpy", "Pandas", "Power PI"]
+		},
+		{
+			"name": "Front End Web Development",
+			"keywords": ["html5", "css3", "js", "BootStrap5", "APIs"]
+		},
+		{
+			"name": "Toolset/OS",
+			"keywords": ["Ubuntu", "Version Control git/gitHub", "shell/cmd", "vim Editor"]
+		}
+	],
+	"education": [{
+		"institution": "University of AinShams, Cairo, EG",
+		"area": "Sientific Computing Department",
+		"studyType": "B.S.",
+		"startDate": "2019-09-01",
+		"endDate": "Present",
+		"courses": []
+	}],
+	"OpenSource": [{
+			"company": "Girl Script Summer of Code",
+			"position": "Participant",
+			"website": "",
+			"startDate": "2022-05-01",
+			"endDate": "Present",
+			"summary": "participate on ?Text Summerization? Project"
+		},
+		{
+			"company": "Microsoft Open Source",
+			"position": "Participant",
+			"website": "",
+			"startDate": "2022-05-01",
+			"endDate": "Present",
+			"summary": "participate on Machine Learning for Beginners' curriculum"
+		},
+		{
+			"company": "FCIS Graduation Projects",
+			"position": "Reproducer",
+			"website": "",
+			"startDate": "2022-08-01",
+			"endDate": "present",
+			"summary": "Informal but local Contribution on our Student Community, i reproducer the projects with refinments "
+		}
+	],
+	"Competitions": [{
+			"organization": "ACM-ECPC",
+			"website": "",
+			"position": "Competitor",
+			"startDate": "2022-08-01",
+			"endDate": "",
+			"summary": "participation 3rd Time in a row for us ( Solution Square ) Team"
+		},
+
+		{
+			"organization": "FCIS Machine Learning Competition 1st Place",
+			"website": "",
+			"position": "Team Leader",
+			"startDate": "2022-12-01",
+			"endDate": "",
+			"summary": ""
+		},
+		{
+			"organization": "Google-Hash Code",
+			"website": "",
+			"position": "Competitor",
+			"startDate": "2022-4-01",
+			"endDate": "",
+			"summary": "real world Engineering problem. (Project Scheduling .. an Optimization Problem)"
+		}
+	],
+	"Certificates": [{
+			"title": "The 2021 ICPC Ain Shams FCI Collegiate Programming Contest",
+			"date": "2020-2021-2022",
+			"link": "https://drive.google.com/file/d/1YXole8emF26G9xeyRapHKYNUigg-LLdp/view?usp=sharing",
+			"awarder": "Dr. William B. Poucher ICPC Executive Director",
+			"summary": "Certificate of Achievement."
+		},
+		{
+			"title": "Google HashCode",
+			"date": "2022",
+			"link": "https://drive.google.com/file/d/1djp-ycwC0PvZX0uZBv0_PCik0055Rj_L/view?usp=sharing",
+			"awarder": "Google",
+			"summary": "My team got The Solution of low scale version of the problem."
+		},
+		{
+			"title": "Data Challenger Track",
+			"date": "2022",
+			"link": "https://drive.google.com/file/d/1ObrMld3mLkdjpIvaVueercx-2DCq6j17/view?usp=sharing",
+			"awarder": "ministry of communication and information technology",
+			"summary": "Certificate of Completion."
+		}
+	],
+	"portfolio": [
+		{
+			"company": "an Operating System",
+			"position": "FOS",
+			"website": "https://github.com/Ahmed-Khaled-1271999/FOS",
+			"startDate": "present",
+			"endDate": "",
+			"summary": "Currently Working on"
+		},
+		{
+			"company": "Efficient Map Routing",
+			"position": "Algorithms",
+			"website": "https://github.com/Ahmed-Khaled-1271999/Algorithms-MapRouting",
+			"startDate": "2021-09-01",
+			"endDate": "",
+			"summary": " Classic Dijkstra's shortest path algorithm and optimize it for maps. Goal is to reduce the Time without using excessive space.  OPTIMIZATION: to stop the search as soon as you discover the shortest path to the destination. the running time per query proportional to E log V. Since you are doing repeated queries! only re-initializing those values that changed in the previous query."
+		},   
+	        {
+			"company": "Virtual-Logic-Design-App",
+			"position": "OOP",
+			"website": "https://github.com/Ahmed-Khaled-1271999/OOP-Virtual-Logic-Design-App",
+			"startDate": "2020-02-01",
+			"endDate": "",
+			"summary": "Logical Circuits Simulator, Object Oriented Paradigm, with Friendly User Interface, many different Component each has its class. see The Run Vedio."
+		},
+		{
+			"company": "Hediah - هدية",
+			"position": "Web App",
+			"website": "https://github.com/Ahmed-Khaled-1271999/Hadiyah",
+			"startDate": "2020-04-01",
+			"endDate": "",
+			"summary": "Multi features E-commerce App, Create Account, Customize your Profile, Shopping with your cart, read/write Reviews on the product page, and be a trader! offer your products to public and keep track them , The state of the Application is kept by a Local Storage."
+		},
+		{
+			"company": "Database System",
+			"position": "Wazzuf",
+			"website": "https://github.com/Ahmed-Khaled-1271999/Wazzauf",
+			"startDate": "2020-02-01",
+			"endDate": "",
+			"summary": "A Database System, ER Diagram and its Logical Schema (Relational Model) are well Designed. Implementation is done using ODB.NET. +7 Windows Forms are developed. Crystal Report are Generated Dynamically (parametrized). "
+		},
+		{
+			"company": "Indexed Files Allocation",
+			"position": "Implementation",
+			"website": "https://github.com/Ahmed-Khaled-1271999/FilesOrganization-Simulation-of-Indexed-Files-Allocation",
+			"startDate": "2020-02-01",
+			"endDate": "",
+			"summary": "Simulation of File Allocation, How to allocate a file in Hard Disk Drive's Blocks to facilitate Access them with minimized Disk Block Access Hits, The Teqniche used is Indexed Allocation which is a superior over Contigous & Linked Allocation"
+		},
+		{
+			"company": "Robot-do-it-better",
+			"position": "Graphics",
+			"website": "https://github.com/Ahmed-Khaled-1271999/ComputerGraphics-Robot-do-it-better",
+			"startDate": "2020-02-01",
+			"endDate": "",
+			"summary": "Computer Graphics Robot do it better. is a 1 min. Scene made in blender, Modeling -> Shading & Texture -> Character Rigging -> Animation is Applied. All rights Reserved for Eng. Elsawy who helped our team much."
+		},     
+	        {
+			"company": "Sports Game Ticket Reservation System",
+			"position": "OOP",
+			"website": "https://github.com/Ahmed-Khaled-1271999/OOP-Sports-Game-Ticket-Reservation-System",
+			"startDate": "2020-02-01",
+			"endDate": "",
+			"summary": " Sports Game Ticket Reservation System is an application that helps sports’ fans to reserve their places in their favorite games (national or international)"
+		},  
+	      	{
+			"company": "Egg Timer",
+			"position": "Android App",
+			"website": "https://github.com/Ahmed-Khaled-1271999/EggTimer",
+			"startDate": "2021-02-01",
+			"endDate": "",
+			"summary": "Time Management Application acts like promodoro Techniche "
+		},
+		{
+			"company": "Tic Tac Toe",
+			"position": "Android App",
+			"website": "https://github.com/Ahmed-Khaled-1271999/TicTacToe-Game",
+			"startDate": "2021-02-01",
+			"endDate": "",
+			"summary": "Funny Tic Tac Toe Game"
+		},
+	      	{
+			"company": "Gorgeous-artwork-gallery",
+			"position": "Website",
+			"website": "https://github.com/Ahmed-Khaled-1271999/Gorgeous-artwork-gallery",
+			"startDate": "2020-02-01",
+			"endDate": "",
+			"summary": "Smsm Gallery, a web site for showing art."
+		}
+	],
+	"references": [{
+		"name": "Available upon request"
+	}]
+}
